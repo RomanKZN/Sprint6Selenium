@@ -11,9 +11,9 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
-import pageObjects.ContactPage;
-import pageObjects.DeliveryDatePage;
-import pageObjects.HomePage;
+import ru.praktikum.services.qa.mesto.ContactPage;
+import ru.praktikum.services.qa.mesto.DeliveryDatePage;
+import ru.praktikum.services.qa.mesto.HomePage;
 
 import java.util.stream.Stream;
 
